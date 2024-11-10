@@ -7,7 +7,8 @@ olga.golovinskaya@gmail.com
 After a successful career as a lawyer in my home country, my curiosity and desire to explore new challenges led me to start a career in information technology. I’ve gained practical experience in web development through my education and a recent internship, and I’m now looking for new opportunities to continue growing and developing my skills in the tech industry.
 
 ## WORKING EXPERIENCE
-**Full Stack Web Developer · Internship · Barcelona Supercomputing Center**
+**Full Stack Web Developer · Internship**  
+**Barcelona Supercomputing Center**  
 *Jun 2024 - Present*
 *Barcelona, Catalonia, Spain · Hybrid*
 
@@ -20,7 +21,7 @@ After a successful career as a lawyer in my home country, my curiosity and desir
 
 ## TECHNICAL SKILLS
 **Programming Languages:** Python, JavaScript,PL/SQL, PHP  
-**Frameworks:** React, Next.js, Angular, Django, FastAPI, Flask 
+**Frameworks:** React, Next.js, Angular, Django, FastAPI, Flask  
 **Databases:** Postgres, Oracle SQL, MySQL, MongoDB  
 **Markup Languages:** HTML, CSS, XML, DTD, XSD  
 
@@ -35,7 +36,7 @@ After a successful career as a lawyer in my home country, my curiosity and desir
 - Worked in **Agile** environments for web development projects.
 
 ## EDUCATION
- - **Web application development profile Bioinformatics**, Ciclo Formativo de Grado Superior, L'Institut Provençana, L'Hospitalet de LLobregat September 2022 - 2024
+ - **Web application development profile Bioinformatics**, Ciclo Formativo de Grado Superior, L'Institut Provençana, L'Hospitalet de LLobregat, September 2022 - 2024
 - [**Python programming**](https://drive.google.com/file/d/1AZ6qrag4hU8xoUGI39HVOOLt8K8M-EuW/view?usp=sharing), CIFO Violeta (Barcelona), 110 hours, May-June 2022
 - **Master in Public Relations and Event Management**, INSA(IL3 Universidad de Barcelona), Barcelona, Spain 2019 - 2020 
 - **Degree in Civil Law**, Gubkin Russian State University of Oil and Gas, Moscow, Russia, 2002–2007 (Honors)
