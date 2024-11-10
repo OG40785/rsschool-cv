@@ -1,7 +1,6 @@
 # OLGA GOLOVINSKAYA
 
-Vilanova i la Geltrú, Barcelona,
-olga.golovinskaya@gmail.com
+Vilanova i la Geltrú, Barcelona
 
 ## ABOUT ME
 After a successful career as a lawyer in my home country, my curiosity and desire to explore new challenges led me to start a career in information technology. I’ve gained practical experience in web development through my education and a recent internship, and I’m now looking for new opportunities to continue growing and developing my skills in the tech industry.
