@@ -1,14 +1,14 @@
 # OLGA GOLOVINSKAYA
 
-Vilanova i la Geltrú, Barcelona
+Vilanova i la Geltrú, Barcelona,
 olga.golovinskaya@gmail.com
 
 ## ABOUT ME
 After a successful career as a lawyer in my home country, my curiosity and desire to explore new challenges led me to start a career in information technology. I’ve gained practical experience in web development through my education and a recent internship, and I’m now looking for new opportunities to continue growing and developing my skills in the tech industry.
 
 ## WORKING EXPERIENCE
-**Full Stack Web Developer · Internship**
-**Barcelona Supercomputing Center**
+**Full Stack Web Developer · Internship  · **
+**Barcelona Supercomputing Center  · **
 *Jun 2024 - Present*
 *Barcelona, Catalonia, Spain · Hybrid*
 
@@ -20,8 +20,8 @@ After a successful career as a lawyer in my home country, my curiosity and desir
 - Integrated a secure **authentication system** with **Next.js** and **Nodemailer**, enabling user accounts and personalized access, including token verification.
 
 ## TECHNICAL SKILLS
-**Programming Languages:** Python, PL/SQL, PHP, JavaScript  
-**Frameworks:** React, Next.js, Angular, Django, FastAPI  
+**Programming Languages:** Python, JavaScript,PL/SQL, PHP  
+**Frameworks:** React, Next.js, Angular, Django, FastAPI, Flask 
 **Databases:** Postgres, Oracle SQL, MySQL, MongoDB  
 **Markup Languages:** HTML, CSS, XML, DTD, XSD  
 
@@ -48,10 +48,10 @@ After a successful career as a lawyer in my home country, my curiosity and desir
 - **Catalan** - intermediate
 
 ## SOFT SKILLS
-- Verbal and written communication skills
-- Analysis skills
-- Proactive position, highly motivated and results oriented, fast learner
-- Teamwork, time-management skills
+- **Strong verbal and written communication** skills
+- **Analytical thinking** and problem-solving abilities
+- **Proactive, highly motivated**, and results-oriented with a fast learning ability
+- Excellent **teamwork** and **time-management** skills
 
 ## CERTIFICATES
 - [Universidad Autónoma de Barcelona(UAB) Language Competence Certificate English B2,2022](https://drive.google.com/file/d/14KtOPn_Bp2YlvaZCeA2x8vVNXKuAJsDW/view?usp=sharing)
