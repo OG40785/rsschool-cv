@@ -7,8 +7,7 @@ olga.golovinskaya@gmail.com
 After a successful career as a lawyer in my home country, my curiosity and desire to explore new challenges led me to start a career in information technology. I’ve gained practical experience in web development through my education and a recent internship, and I’m now looking for new opportunities to continue growing and developing my skills in the tech industry.
 
 ## WORKING EXPERIENCE
-**Full Stack Web Developer · Internship  · **
-**Barcelona Supercomputing Center  · **
+**Full Stack Web Developer · Internship · Barcelona Supercomputing Center**
 *Jun 2024 - Present*
 *Barcelona, Catalonia, Spain · Hybrid*
 
