@@ -1,106 +1,172 @@
 body {
-    background-color: rgb(234, 241, 244);
-    margin: 60px;
-    padding: 60px;
-
-  }
-
-  h2{
-    color: rgb(82, 82, 111);
-    text-align: center;
-    font-family: verdana;
-    font-size: 20px;
-  }
-
-  #avatar {
-    height: 6rem;  
-    width: 6rem;  
-    
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial, sans-serif;
 }
 
+h1,
+h2 {
+  color: #333333;
+  text-align: center;
+}
 
+h2:hover {
+  text-decoration: underline;
+}
+
+h3,
+h4 {
+  margin-left: 2rem;
+}
+
+#avatar {
+  height: 10rem;
+  width: 10rem;
+}
+
+#navbar {
+  display: flex;
+  background-color: #5f5c83;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+#navbar a {
+  color: white;
+  text-decoration: none;
+  padding: 1rem 1rem;
+  margin: 0 1rem;
+  font-size: 1rem;
+}
+
+#navbar a:hover {
+  text-decoration: underline;
+}
+
+#cv {
+  margin-left: 6rem;
+
+  margin-right: 6rem;
+  padding: 1rem;
+}
+
+table {
+  padding: 0;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  text-align: center;
+}
+
+td {
+  vertical-align: middle;
+}
 
 .section {
-    border: 2px solid #323142;
-    border-radius: 5px;
-  }
+  border-style: dotted solid;
+}
 
-  #introduction {
-    border: 2px solid #323142;
-    border-radius: 5px;
-    text-align: justify;
-  }
+.text {
+  text-align: justify;
+  padding: 2rem;
+}
+
+.info {
+  text-align: justify;
+  margin-left: 2rem;
+}
 footer {
-    background-color: #323142;
-    color: white;
-    width: 100%;
-    
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    
-    bottom: 0;
-    left: 0;
+  background-color: #333333;
+  color: white;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  bottom: 1rem;
+  left: 0;
 }
 
 .footer-left {
-    display: flex;
-    align-items: center;
+  display: flex;
+  align-items: center;
 }
 
 .footer-left a {
-    color: white;
-    text-decoration: none;
-    margin-left: 1rem;
-    font-size: 1rem;
+  color: white;
+  text-decoration: none;
+  margin: 1rem;
+  font-size: 1rem;
 }
 
 .footer-left a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
-.footer-left img {
-    width: 40px;
-    height: 40px;
-    margin-right: 10px;
+#github-logo {
+  width: 2rem;
+  height: 2rem;
 }
 
 .footer-right {
-    display: flex;
-    align-items: center;
+  display: flex;
+  align-items: center;
 }
 
 .footer-right a {
-    color: white;
-    text-decoration: none;
-    font-size: 1rem;
+  color: white;
+  text-decoration: none;
+  font-size: 1rem;
+  margin: 1rem;
 }
 
 .footer-right a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 .footer-right p {
-    margin-right: 15px;
+  margin: 1rem;
 }
 
+#rs-school-logo {
+  height: 5rem;
+  width: 5rem;
+  margin: 1rem;
+}
 
 @media screen and (max-width: 600px) {
-    footer {
-        flex-direction: column;
-        align-items: flex-start;
-    }
+  footer {
+    flex-direction: column;
+    align-items: flex-start;
+  }
 
-    .footer-left,
-    .footer-right {
-        margin-bottom: 10px;
-    }
+  .footer-left,
+  .footer-right {
+    margin-bottom: 10px;
+  }
 
-    .footer-left a {
-        font-size: 1rem;
-    }
+  .footer-left a {
+    font-size: 1rem;
+  }
 
-    .footer-right a {
-        font-size: 0.9rem;
-    }
+  .footer-right a {
+    font-size: 1rem;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  #navbar {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0.5rem 0;
+    text-align: left;
+  }
+
+  #navbar a {
+    font-size: 1rem;
+    padding: 0.5rem 1.25rem;
+  }
 }
