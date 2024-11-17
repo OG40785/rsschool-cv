@@ -1,0 +1,172 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial, sans-serif;
+}
+
+h1,
+h2 {
+  color: #333333;
+  text-align: center;
+}
+
+h2:hover {
+  text-decoration: underline;
+}
+
+h3,
+h4 {
+  margin-left: 2rem;
+}
+
+#avatar {
+  height: 10rem;
+  width: 10rem;
+}
+
+#navbar {
+  display: flex;
+  background-color: #5f5c83;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+#navbar a {
+  color: white;
+  text-decoration: none;
+  padding: 1rem 1rem;
+  margin: 0 1rem;
+  font-size: 1rem;
+}
+
+#navbar a:hover {
+  text-decoration: underline;
+}
+
+#cv {
+  margin-left: 6rem;
+
+  margin-right: 6rem;
+  padding: 1rem;
+}
+
+table {
+  padding: 0;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  text-align: center;
+}
+
+td {
+  vertical-align: middle;
+}
+
+.section {
+  border-style: dotted solid;
+}
+
+.text {
+  text-align: justify;
+  padding: 2rem;
+}
+
+.info {
+  text-align: justify;
+  margin-left: 2rem;
+}
+footer {
+  background-color: #333333;
+  color: white;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  bottom: 1rem;
+  left: 0;
+}
+
+.footer-left {
+  display: flex;
+  align-items: center;
+}
+
+.footer-left a {
+  color: white;
+  text-decoration: none;
+  margin: 1rem;
+  font-size: 1rem;
+}
+
+.footer-left a:hover {
+  text-decoration: underline;
+}
+
+#github-logo {
+  width: 2rem;
+  height: 2rem;
+}
+
+.footer-right {
+  display: flex;
+  align-items: center;
+}
+
+.footer-right a {
+  color: white;
+  text-decoration: none;
+  font-size: 1rem;
+  margin: 1rem;
+}
+
+.footer-right a:hover {
+  text-decoration: underline;
+}
+
+.footer-right p {
+  margin: 1rem;
+}
+
+#rs-school-logo {
+  height: 5rem;
+  width: 5rem;
+  margin: 1rem;
+}
+
+@media screen and (max-width: 600px) {
+  footer {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .footer-left,
+  .footer-right {
+    margin-bottom: 10px;
+  }
+
+  .footer-left a {
+    font-size: 1rem;
+  }
+
+  .footer-right a {
+    font-size: 1rem;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  #navbar {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0.5rem 0;
+    text-align: left;
+  }
+
+  #navbar a {
+    font-size: 1rem;
+    padding: 0.5rem 1.25rem;
+  }
+}
